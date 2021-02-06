@@ -1,5 +1,19 @@
 ## Our projects
 
+- **Schoology-Google Calendar Integration**: Add assignments from a class to google calendar in a single command.
+
+  - Release date: Febuary 6, 2021
+  - Team: 
+    - [Aarav Borthakur](https://github.com/gadhagod)
+  - Technologies:
+    - [Click](https://palletsprojects.com/p/click/)
+    - [Schoology API](https://developers.schoology.com/api)
+    - [Google Calendar API](https://developers.google.com/calendar)
+  - Links:
+    - [GitHub](https://github.com/Harker-Hackers/assignment-notifications)
+
+<br>
+
 - **Schoology Assignemnt Notifications**: Be notified of upcoming assignments from schoology!
   - Release date: Febuary 4, 2021
   - Team: 
