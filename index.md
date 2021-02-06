@@ -34,7 +34,7 @@
   - Favorite project: [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API)
   
 
-- [Aarush Vailaya](https://github.com/goombamaui): I have no bio yet, but I like living. I spend my time not making bios. I hope to soon have this area populated with my programming interests.
+- [Aarush Vailaya](https://github.com/goombamaui): I am a python programmer that is learning js and java. I have made many server side apps like [rambark](https://rambark.herokuapp.com) or Threedgamedev.
   - Favorite project: [Threedgamedev](http://threedgamedev.herokuapp.com/)
   
 We have more people joining us! If you want to join, please email [harker.hackers@gmail.com](mailto:harker.hackers@gmail.com).
