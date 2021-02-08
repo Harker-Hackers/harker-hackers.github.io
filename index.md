@@ -1,7 +1,16 @@
 ## Our projects
 
-- **Schoology-Google Calendar Integration**: Add assignments from a class to google calendar in a single command.
+- **Schedule API**: A modern, lightweight, lighting-speed bell schedule API built for developers building applications with the bell schedule, in a nice neat format.
+  - Release date: Febuary 8, 2021
+  - Team: 
+    - [Aarav Borthakur](https://github.com/gadhagod)
+  - Technologies:
+    - [Flask](https://flask.palletsprojects.com/en/1.1.x)
+  - Links:
+    - [API Docs](https://github.com/Harker-Hackers/Schedule-API/blob/master/README.md#harker-bell-schedule-api)
+    - [GitHub](https://github.com/Harker-Hackers/assignment-notifications)
 
+- **Schoology-Google Calendar Integration**: Add assignments from a class to google calendar in a single command.
   - Release date: Febuary 6, 2021
   - Team: 
     - [Aarav Borthakur](https://github.com/gadhagod)
