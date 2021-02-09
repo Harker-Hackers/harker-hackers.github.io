@@ -1,5 +1,14 @@
 ## Our projects
 
+- **Schoology Schedule Extension**: View your Infnite Campus schedule on Schoology!
+  - Release date: Febuary 8, 2021
+  - Team: 
+    - [Aarush Vailaya](https://github.com/goombamaui)
+    - [Aarav Borthakur](https://github.com/gadhagod)
+  - Links:
+    - [Download Instructions](http://gadhagod.github.io/schoology-schedule)
+    - [GitHub](https://github.com/Harker-Hackers/schoology-schedule)
+
 - **Schedule API**: A modern, lightweight, lighting-speed bell schedule API built for developers building applications with the bell schedule, in a nice neat format.
   - Release date: Febuary 8, 2021
   - Team: 
