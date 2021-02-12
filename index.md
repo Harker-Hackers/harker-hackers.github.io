@@ -68,5 +68,9 @@
 
 - [Aarush Vailaya](https://github.com/goombamaui): I am a python programmer that is learning js and java. I have made many server side apps like [rambark](https://rambark.herokuapp.com) or Threedgamedev.
   - Favorite project: [Threedgamedev](http://threedgamedev.herokuapp.com/)
-  
+
+
+- [Aarit Gupta](https://github.com/25aaritg): I am a python programmer that enjoys robotics. I don't have much experience with APIs or different libraries but I enjoy coding competitions and writing algorithms.
+
+
 We have more people joining us! If you want to join, please email [harker.hackers@gmail.com](mailto:harker.hackers@gmail.com).
