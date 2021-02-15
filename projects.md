@@ -1,4 +1,4 @@
-## Our projects
+# Our projects
 
 - **Schoology Schedule Extension**: View your Infnite Campus schedule on Schoology!
   - Release date: Febuary 8, 2021

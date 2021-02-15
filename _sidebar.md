@@ -1,4 +1,4 @@
-- [About](readme.md)
+- [About](README.md)
 - [Projects](projects.md)
 - [Members](members.md)
 - [Join us!](applications.md)

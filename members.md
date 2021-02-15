@@ -1,4 +1,4 @@
-## Our members
+# Our members
 
 - [Aarav Borthakur](https://github.com/gadhagod): I am a python and ruby programmer that likes working on server-side webapps. I have experience in Flask, Rails, and Express.
   - Favorite project: [Hyrule Compendium API](https://github.com/gadhagod/Hyrule-Compendium-API)
