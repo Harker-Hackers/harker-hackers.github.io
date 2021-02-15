@@ -4,7 +4,7 @@
 
 > A small group of Harker Middle School students dedicated to building useful student software.
 
-- Non-stop project building
+- Non-stop innovation
 - Completely open-source
 - Open to all
 

@@ -13,4 +13,4 @@
 - [Aarit Gupta](https://github.com/25aaritg) (junior): I am a python programmer that enjoys robotics. I don't have much experience with APIs or different libraries but I enjoy coding competitions and writing algorithms.
 
 
-We have more people joining us! If you want to join, please email [harker.hackers@gmail.com](mailto:harker.hackers@gmail.com).
+We have more people joining us! If you want to join, please see our [applications page](applications).
