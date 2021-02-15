@@ -1,0 +1,2 @@
+# Joining our team
+We welcome people who love to innovate and serve to join us! You can fill [this form](form link) to join. It will ask you about your previous projects or open-source contributions, and a little bit about your programming preferences.
