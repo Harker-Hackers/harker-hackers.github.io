@@ -10,7 +10,7 @@
 
 <br>
 
-- [Aarit Gupta](https://github.com/25aaritg): I am a python programmer that enjoys robotics. I don't have much experience with APIs or different libraries but I enjoy coding competitions and writing algorithms.
+- [Aarit Gupta](https://github.com/25aaritg): I am good at graphics and photo editing and has made the logo for Harker Hackers and the icon for the extension. I do most of thhe graphics for the team but I also use python fluently. My first project is to make a python script that automatically joins zoom meetings so that students don't miss their class
 
 
 We have more people joining us! If you want to join, please see our [applications page](applications).
