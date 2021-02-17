@@ -36,7 +36,7 @@
 
 <br>
 
-- **Schoology Assignemnt Notifications**: Be notified of upcoming assignments from schoology!
+- **Schoology Assignment Notifications**: Be notified of upcoming assignments from schoology!
   - Release date: Febuary 4, 2021
   - Team: 
     - [Aarush Vailaya](https://github.com/goombamaui)
