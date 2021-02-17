@@ -4,6 +4,9 @@ window.$docsify = {
     loadSidebar: true,
     coverpage: true,
     homepage: 'about.md',
+    name: 'Welcome!',
+    mergeNavbar: true,
+    notFoundPage: '404.md',
     search: 'auto',
     search: {
         maxAge: 86400000,
