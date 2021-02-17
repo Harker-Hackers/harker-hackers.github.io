@@ -3,6 +3,7 @@ window.$docsify = {
     repo: '',
     loadSidebar: true,
     coverpage: true,
+    homepage: 'about.md',
     search: 'auto',
     search: {
         maxAge: 86400000,
