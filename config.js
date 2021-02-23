@@ -5,7 +5,6 @@ window.$docsify = {
     coverpage: true,
     homepage: 'about.md',
     name: 'Welcome!',
-    mergeNavbar: true,
     notFoundPage: '404.md',
     search: 'auto',
     search: {
