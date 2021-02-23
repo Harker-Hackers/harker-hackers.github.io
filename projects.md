@@ -1,5 +1,15 @@
 # Our projects
 
+- **Schedule Popup**: A browser popup that tells you how much time is left in the current period.
+  - Release date: Febuary 22, 2021
+  - Team: 
+    - [Aarav Borthakur](https://github.com/gadhagod)
+  - Links:
+    - [Popup](https://harker-hackers.github.io/Schedule-Popup)
+    - [GitHub](https://github.com/Harker-Hackers/Schedule-Popup)
+
+<br>
+
 - **Schoology Schedule Extension**: View your Infnite Campus schedule on Schoology!
   - Release date: Febuary 8, 2021
   - Team: 
