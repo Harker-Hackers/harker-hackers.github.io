@@ -10,7 +10,7 @@
 
 <br>
 
-- [Aarit Gupta](https://github.com/25aaritg) (design): I am good at graphics and photo editing and have made the logo for Harker Hackers. I do most of the graphics for the team but I also write python fluently.
+- [Aarit Gupta](https://github.com/25aaritg) (design): I am good at graphics and photo editing. I do much of the graphics for the team, like logos and icons, and can write python fluently.
 
 
 We have more people joining us! If you want to join, please see our [applications page](applications).
