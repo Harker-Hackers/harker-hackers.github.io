@@ -28,7 +28,6 @@ NOT in chronological order.
 <br>
 
 - **Schedule CLI**: Get school timings on your command line.
-
   - Release date: Mar 3, 2021
   - Links:
     - [GitHub](https://github.com/Harker-Hackers/Schedule-CLI)
