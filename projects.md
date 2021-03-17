@@ -23,4 +23,4 @@ NOT in chronological order.
   - Release date: Febuary 8, 2021
   - Links:
     - [API Docs](https://github.com/Harker-Hackers/Schedule-API/blob/master/README.md#harker-bell-schedule-api)
-    - [GitHub](https://github.com/Harker-Hackers/assignment-notifications)
+    - [GitHub](https://github.com/Harker-Hackers/Schedule-API)
