@@ -6,6 +6,5 @@
 
 - Non-stop innovation
 - Completely open-source
-- Open to all
 
 [GitHub](https://github.com/Harker-Hackers)
