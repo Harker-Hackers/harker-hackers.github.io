@@ -2,7 +2,7 @@
 
 NOT in chronological order.
 
-- **Schoology Grades Trend Visualizer Extension**: Schoology schedule and grades trend graphing extension.
+- **Schoology Grades Trend Visualizer Extension**: Schoology schedule and grades trend graphing extension. (Not Endorsed by Harker)
   - Release date: Febuary 20, 2021
   - Links:
     - [Website](https://harker-hackers.github.io/schoology-schedule/)
