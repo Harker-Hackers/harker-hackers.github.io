@@ -2,4 +2,5 @@
 [Projects](projects)
 [Members](members.md)
 [Subscribe](https://harker-hackers.herokuapp.com/)
-[Join us!](applications)
+[Join Us!](applications)
+[Contact Us](contact)
