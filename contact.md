@@ -1,2 +1,2 @@
 # Contact Us
-We gladly welcome any suggestions or ideas for future projects! If you are interested in a quality of life improvement that you believe we could implement, please contact us at harker.hackers@gmail.com.
+We gladly welcome any suggestions or ideas for future projects! If you are interested in a quality of life improvement that you believe we could implement, please contact us at [harker.hackers@gmail.com](mailto:harker.hackers@gmail.com).
