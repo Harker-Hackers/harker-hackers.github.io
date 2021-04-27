@@ -1,5 +1,8 @@
 [About](about)
 [Projects](projects)
+[---Schoology Extension](schoology-schedule)
+[---Harker Updates](https://harker-updates.herokuapp.com/)
+[---Online Schedule API](https://github.com/Harker-Hackers/Schedule-API/blob/master/README.md#harker-bell-schedule-api)
 [Members](members.md)
 [Subscribe](https://harker-hackers.herokuapp.com/)
 [Contact Us](contact)

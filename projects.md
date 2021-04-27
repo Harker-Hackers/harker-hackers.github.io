@@ -1,25 +1,24 @@
 # Our projects
+ In reverse chronological order.
 
-NOT in chronological order.
-
-- **Schoology Grades Trend Visualizer Extension**: Schoology schedule and grades trend graphing extension.
+- [**Schoology Extension**](https://harker-hackers.github.io/schoology-extension/): Schoology extension with a multitide of features.
   - Release date: Febuary 20, 2021
   - Links:
-    - [Website](https://harker-hackers.github.io/schoology-schedule/)
-    - [GitHub](https://github.com/Harker-Hackers/schoology-schedule)
+    - [GitHub](https://github.com/Harker-Hackers/schoology-extension)
 
 <br>
 
-- **Harker Updates**: A service that allows Harker Middle School students to see campus-wide information and be notified of new updates.
+- [**Harker Updates**](https://harker-updates.herokuapp.com/): A service that allows Harker Middle School students to see campus-wide information and be notified of new updates.
   - Release date: November 3, 2020
   - Links:
-    - [Website](https://harker-updates.herokuapp.com/)
     - [Discord](https://discord.com/invite/CJAXbAQEFv)
     - [GitHub](https://github.com/Harker-Hackers/Harker-Updates)
 
 <br>
 
-- **Schedule API**: A modern, lightweight, lighting-speed bell schedule API built for developers building applications with the bell schedule, in a nice neat format.
+<b>For Developers:<b>
+
+- **Schedule API**: A modern, lightweight, bell schedule API designed for applications that require schedule integration. 
   - Release date: Febuary 8, 2021
   - Links:
     - [API Docs](https://github.com/Harker-Hackers/Schedule-API/blob/master/README.md#harker-bell-schedule-api)
