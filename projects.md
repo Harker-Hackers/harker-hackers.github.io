@@ -1,11 +1,14 @@
 # Our projects
 
-NOT in chronological order.
+- **Harker Schoology Chrome Extension**: A Chrome extension that adds awesome features to Schoology, made specifically for Harker students.
+  - Release date: May 3, 2021
+  - Links:
+    - [Website](https://harker-hackers.github.io/schoology-extension)
+    - [GitHub](https://github.com/Harker-Hackers/schoology-extension)
 
 - **Schoology Grades Trend Visualizer Extension**: Schoology schedule and grades trend graphing extension.
   - Release date: Febuary 20, 2021
   - Links:
-    - [Website](https://harker-hackers.github.io/schoology-schedule/)
     - [GitHub](https://github.com/Harker-Hackers/schoology-schedule)
 
 <br>
