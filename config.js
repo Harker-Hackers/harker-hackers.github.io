@@ -11,7 +11,7 @@ window.$docsify = {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Search',
-        noData: 'No Results!',
+        noData: 'No results',
         depth: 10,
         hideOtherSidebarContent: false,
     }
