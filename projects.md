@@ -6,10 +6,13 @@
     - [Website](https://harker-hackers.github.io/schoology-extension)
     - [GitHub](https://github.com/Harker-Hackers/schoology-extension)
 
+<br>
+
 - **Schoology Grades Trend Visualizer Extension**: Schoology schedule and grades trend graphing extension.
   - Release date: Febuary 20, 2021
   - Links:
-    - [GitHub](https://github.com/Harker-Hackers/schoology-schedule)
+    - [Website](https://harker-hackers.github.io/grades-trend-visualizer)
+    - [GitHub](https://github.com/Harker-Hackers/grades-trend-visualizer)
 
 <br>
 
