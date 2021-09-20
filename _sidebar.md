@@ -1,6 +1,5 @@
 [About](about)
 [Projects](projects)
-[Members](members.md)
 [Subscribe](https://harker-hackers.herokuapp.com/)
 [Contact Us](contact)
 [Join Us!](applications)
